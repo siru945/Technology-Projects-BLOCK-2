@@ -2,13 +2,10 @@
 
 ### 4.1 Ping Test Screenshot(s)
 ```
-images/ping-pc0.png
+
+<img width="1054" height="1059" alt="Screenshot 2026-10-30 154700" src="https://github.com/user-attachments/assets/adac4224-df99-4ef0-9e12-adcf40086429" />
+
 ```
 
 ### 4.2 Describe the Results
-- Were all PCs able to ping each other?  
-- Which pings were successful?  
-- Which ones failed and why?
-
-_Write your explanation here…_
-
+- All PCs were tested using the ping command . successful pings showed thgat devices could communicate,while failed pings indicated possible network configuration issues.
