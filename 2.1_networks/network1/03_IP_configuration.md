@@ -1,3 +1,4 @@
+<img width="1059" height="1065" alt="Screenshot 2026-10-30 155353" src="https://github.com/user-attachments/assets/8bb25d0a-49ad-4cc5-aa2b-749966d68524" />
 ## 💾 3. IP Address Configuration
 
 ### 3.1 Assigned IP Table
