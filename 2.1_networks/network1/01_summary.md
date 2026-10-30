@@ -1,7 +1,10 @@
 ## 📘 1. Summary of the Task
-Describe the purpose of this activity in your own words:  
-- What is the goal of the lab?  
-- What network are you expected to create?
+in this practical session, i created a small LAN (Local Area Network )
+using cisco packet tracer. i connected five computers (PC0,PC1,PC2,PC3 and PC4)
+to a cisco 2960 switch using Ethernet cables.
 
-_Write your summary here…_
+After establishing the connections, i tested network connectivity using the ping command from the PC command prompth 
+
+i used the command:
+ping 192.168.1.11
 
